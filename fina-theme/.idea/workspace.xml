@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04ef2d95-b2b8-4d7d-8509-3b38d85e7869" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Export DB/wordpress.sql" afterDir="false" />
-    </list>
+    <list default="true" id="04ef2d95-b2b8-4d7d-8509-3b38d85e7869" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +75,7 @@
         <entry file="file://$PROJECT_DIR$/front-page.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="186" lean-forward="true" selection-start-line="186" selection-end-line="186" />
+              <caret line="186" selection-start-line="186" selection-end-line="186" />
             </state>
           </provider>
         </entry>
@@ -103,8 +101,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Export DB/wordpress.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="49243">
-              <caret line="2141" column="46" selection-start-line="2141" selection-start-column="46" selection-end-line="2141" selection-end-column="46" />
+            <state relative-caret-position="253">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -223,12 +221,12 @@
       <workItem from="1544623760143" duration="48350000" />
       <workItem from="1545160329832" duration="5995000" />
       <workItem from="1545211456663" duration="31758000" />
-      <workItem from="1545397699897" duration="4065000" />
+      <workItem from="1545397699897" duration="4362000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90168000" />
+    <option name="totallyTimeSpent" value="90465000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
@@ -343,7 +341,7 @@
     <entry file="file://$PROJECT_DIR$/front-page.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="186" lean-forward="true" selection-start-line="186" selection-end-line="186" />
+          <caret line="186" selection-start-line="186" selection-end-line="186" />
         </state>
       </provider>
     </entry>
@@ -370,8 +368,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Export DB/wordpress.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49243">
-          <caret line="2141" column="46" selection-start-line="2141" selection-start-column="46" selection-end-line="2141" selection-end-column="46" />
+        <state relative-caret-position="253">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
