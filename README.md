@@ -35,7 +35,7 @@ Selectionnez une couleur par catégorie
 
 > Creez un menu Navigation :
 
-    Menu principale
+    Menu principal
 
   - HOME (Page)
   - NEWS (Catégorie)
